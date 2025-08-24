@@ -1,0 +1,15 @@
+p{
+	background-color: #ed6dba;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.secondP {
+	font-size: 24px;
+}
+.firstEl{
+	color: blue;
+	font-size: 36px;
+}
+.secondEl{
+	background-color: rgb(0, 255, 170);
+	font-weight: bold;
+}
